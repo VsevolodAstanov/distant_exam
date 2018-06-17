@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="distant:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="distantsystem-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="distant:war exploded" />
+    </root>
+  </artifact>
+</component>
